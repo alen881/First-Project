@@ -1,0 +1,12 @@
+.env
+
+ajs/
+
+## Ignore Python cache files
+__pycache__/
+*.pyc
+
+
+
+node_modules/
+frontend/node_modules/
